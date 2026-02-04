@@ -1,0 +1,21 @@
+IN THE SUPREME COURT OF [STATE]
+
+Case No: SC-2023-001
+Plaintiff: John Doe
+Defendant: ABC Corporation
+
+JUDGMENT ON NEGLIGENCE
+
+The Court finds that to establish negligence, a plaintiff must prove:
+1. The defendant owed a duty of care to the plaintiff
+2. The defendant breached that duty
+3. The breach caused harm to the plaintiff
+4. The plaintiff suffered damages as a result
+
+In this case, the defendant corporation failed to maintain safe premises, 
+which constituted a breach of duty. The plaintiff suffered injuries as a direct result.
+
+The elements of negligence are well-established in common law and have been 
+consistently applied in jurisdictions following the English legal tradition.
+
+AWARD: The Court awards damages in the amount of $500,000 to the plaintiff.

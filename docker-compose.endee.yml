@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  endee-server:
+    image: endeeio/endee-server:latest
+    container_name: endee-legal
+    ports:
+      - "8080:8080"
+    environment:
+      NDD_DATA_DIR: /data
+      NDD_NUM_THREADS: 0
+    volumes:
+      - endee-data:/data
+    restart: unless-stopped
+    ulimits:
+      nofile:
+        soft: 100000
+        hard: 100000
+
+volumes:
+  endee-data:
